@@ -11,4 +11,3 @@
 
 ## Reference
 Noah Gift's Pragmatic AI Labs youtube channel: [here](https://www.youtube.com/watch?v=gxiloECFBZ8)
-
